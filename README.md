@@ -25,8 +25,8 @@ Proyek ini bertujuan untuk:
 
 ---
 
-## 🚀 Cara Menjalankan
+## 🔗 Link Website
 
-1. **Clone repositori** ini:
-   ```bash
-   git clone [https://github.com/notSunsin/manjarkom]
+Untuk mengakses website bisa melalui tautan berikut:  
+👉 [https://manjarkom.vercel.app/](https://manjarkom.vercel.app/)
+
