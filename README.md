@@ -1,4 +1,4 @@
-# 🌐 Proyek Website - Manajemen Jaringan Komputer
+# 🌐 Proyek Web Server - Manajemen Jaringan Komputer
 
 Selamat datang di repositori proyek kelompok kami untuk mata kuliah **Manajemen Jaringan Komputer**.  
 Website ini dirancang sebagai homepage sederhana untuk memperkenalkan anggota kelompok dan menampilkan beberapa fitur dasar web statis dengan HTML, CSS, dan JavaScript.
@@ -11,6 +11,7 @@ Website ini dirancang sebagai homepage sederhana untuk memperkenalkan anggota ke
 |-----------------------------|-------------|
 | Muhammad Rizky Harianto     | 1462300237  |
 | Dhimas Valentino A Z        | 1462300242  |
+| Mohamad Aldi Putra          | 1462300071  |
 
 ---
 
