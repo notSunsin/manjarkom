@@ -1,34 +1,54 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Homepage Proyek Kelompok</title>
-  <link rel="stylesheet" href="style.css"/>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas Kelompok Web Server</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <!-- Stars Background -->
+    <div class="stars" id="stars"></div>
 
-  <!-- Taskbar -->
-  <nav class="navbar">
-    <div class="nav-left">
-      <a href="#">Home</a>
-      <a href="#">Informasi tentang saya</a>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="nav-left">HOME</div>
+        <div class="nav-center">
+            <div class="running-text">TUGAS KELOMPOK WEB SERVER MATA KULIAH MANAJEMEN JARINGAN KOMPUTER</div>
+        </div>
+        <img src="Untag.png" alt="Logo Kampus" class="logo" onerror="this.style.display='none'">
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container">
+        <div class="header-section">
+            <button class="nama-anggota-btn">NAMA ANGGOTA</button>
+        </div>
+
+        <div class="members-container">
+            <div class="member-card">
+                <div class="member-number">1</div>
+                <div class="member-content">
+                    <div class="member-name">Muhammad Rizky Harianto (1462300237)</div>
+                </div>
+            </div>
+
+            <div class="member-card">
+                <div class="member-number">2</div>
+                <div class="member-content">
+                    <div class="member-name">Dhimas Valentino A Z (1462300242)</div>
+                </div>
+            </div>
+
+            <div class="member-card">
+                <div class="member-number">3</div>
+                <div class="member-content">
+                    <div class="member-name">Mohamad Aldi Putra (1462300071)</div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="nav-right">
-      <img src="untag.jpg" alt="Logo Kampus" id="logo-preview" />
-    </div>
-  </nav>
 
-  <!-- Konten Utama -->
-  <div class="container">
-    <h1 class="judul">Anggota Kelompok</h1>
-    <ul id="anggota-list">
-      <li class="fade">Muhammad Rizky Harianto (1462300237)</li>
-      <li class="fade">Dhimas Valentino A Z (1462300242)</li>
-      <li class="fade">Mohamad Aldi Putra (1462300071)</li>
-    </ul>
-  </div>
-
-  <script src="script.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
