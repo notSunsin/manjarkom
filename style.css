@@ -18,6 +18,7 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
+  box-sizing: border-box;
 }
 
 .navbar a {
@@ -30,6 +31,8 @@ body {
 .nav-right {
   display: flex;
   align-items: center;
+  padding-right: 10px; /* memberi jarak dari tepi kanan */
+  overflow: visible;
 }
 
 #logo-upload {
@@ -38,11 +41,14 @@ body {
   opacity: 0.7;
 }
 
+/* Perbaikan di sini */
 #logo-preview {
   width: 30px;
   height: 30px;
   margin-left: 10px;
+  margin-right: 10px; /* Tambahan agar tidak mepet kanan */
   object-fit: contain;
+  display: block;
 }
 
 /* Konten utama */
