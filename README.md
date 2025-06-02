@@ -1,1 +1,31 @@
-# manjarkom
+# 🌐 Proyek Website - Manajemen Jaringan Komputer
+
+Selamat datang di repositori proyek kelompok kami untuk mata kuliah **Manajemen Jaringan Komputer**.  
+Website ini dirancang sebagai homepage sederhana untuk memperkenalkan anggota kelompok dan menampilkan beberapa fitur dasar web statis dengan HTML, CSS, dan JavaScript.
+
+---
+
+## 👥 Nama Anggota Kelompok
+
+| Nama Lengkap                 | NIM         |
+|-----------------------------|-------------|
+| Muhammad Rizky Harianto     | 1462300237  |
+| Dhimas Valentino A Z        | 1462300242  |
+
+---
+
+## 🎯 Tujuan Proyek
+
+Proyek ini bertujuan untuk:
+
+- Mengenalkan anggota kelompok dalam bentuk tampilan website.
+- Menerapkan desain antarmuka sederhana menggunakan HTML, CSS, dan JS.
+- Menggunakan GitHub Pages sebagai platform publikasi web statis.
+
+---
+
+## 🚀 Cara Menjalankan
+
+1. **Clone repositori** ini:
+   ```bash
+   git clone [https://github.com/notSunsin/manjarkom]
